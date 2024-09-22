@@ -4,7 +4,7 @@ repo: upptime # The name of this repository
 
 sites:
   - name: lnh
-    url: https://lnh
+    url: https://lnh.ge
   - name: ldev
     url: https://up.ldev.cloud
 
