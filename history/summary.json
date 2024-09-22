@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnh.ge.ico",
     "slug": "lnh",
     "status": "up",
-    "uptime": "1.41%",
-    "uptimeDay": "1.41%",
-    "uptimeWeek": "1.41%",
-    "uptimeMonth": "1.41%",
-    "uptimeYear": "1.41%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 659,
     "timeDay": 659,
     "timeWeek": 659,
     "timeMonth": 659,
     "timeYear": 659,
-    "dailyMinutesDown": {
-      "2024-09-22": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ldev",
