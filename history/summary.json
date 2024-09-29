@@ -4,35 +4,39 @@
     "url": "https://lnh.ge",
     "icon": "https://icons.duckduckgo.com/ip3/lnh.ge.ico",
     "slug": "lnh",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
-    "timeDay": 504,
-    "timeWeek": 671,
+    "timeDay": 0,
+    "timeWeek": 627,
     "timeMonth": 671,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   },
   {
     "name": "ldev",
     "url": "https://up.ldev.cloud",
     "icon": "https://icons.duckduckgo.com/ip3/up.ldev.cloud.ico",
     "slug": "ldev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 569,
-    "timeDay": 545,
-    "timeWeek": 569,
-    "timeMonth": 569,
-    "timeYear": 569,
-    "dailyMinutesDown": {}
+    "time": 712,
+    "timeDay": 3417,
+    "timeWeek": 802,
+    "timeMonth": 712,
+    "timeYear": 712,
+    "dailyMinutesDown": {
+      "2024-09-29": 0
+    }
   }
 ]
