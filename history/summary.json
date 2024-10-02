@@ -4,19 +4,19 @@
     "url": "https://lnh.ge",
     "icon": "https://icons.duckduckgo.com/ip3/lnh.ge.ico",
     "slug": "lnh",
-    "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 678,
     "timeDay": 714,
     "timeWeek": 620,
     "timeMonth": 678,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2024-10-02": 5
+      "2024-10-02": 1
     }
   },
   {
@@ -25,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/up.ldev.cloud.ico",
     "slug": "ldev",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 737,
     "timeDay": 618,
     "timeWeek": 833,
     "timeMonth": 737,
     "timeYear": 737,
-    "dailyMinutesDown": {
-      "2024-10-02": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
