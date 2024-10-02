@@ -4,19 +4,19 @@
     "url": "https://lnh.ge",
     "icon": "https://icons.duckduckgo.com/ip3/lnh.ge.ico",
     "slug": "lnh",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 678,
-    "timeDay": 714,
-    "timeWeek": 620,
-    "timeMonth": 678,
-    "timeYear": 678,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 680,
+    "timeDay": 715,
+    "timeWeek": 627,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {
-      "2024-10-02": 1
+      "2024-10-02": 5
     }
   },
   {
