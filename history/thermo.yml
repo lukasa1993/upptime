@@ -1,7 +1,7 @@
 url: https://thermo.lnh.ge/api
-status: down
-code: 530
-responseTime: 54
-lastUpdated: 2025-01-11T05:39:50.677Z
+status: up
+code: 200
+responseTime: 538
+lastUpdated: 2025-01-11T05:46:20.853Z
 startTime: 2025-01-10T16:58:05.095Z
 generator: Upptime <https://github.com/upptime/upptime>
