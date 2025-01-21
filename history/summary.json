@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/lnh.ge.ico",
     "slug": "lnh",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.67%",
-    "uptimeYear": "98.97%",
+    "uptimeYear": "98.98%",
     "time": 869,
     "timeDay": 837,
     "timeWeek": 684,
@@ -60,17 +60,19 @@
     "url": "https://thermo.lnh.ge/api",
     "icon": "https://icons.duckduckgo.com/ip3/thermo.lnh.ge.ico",
     "slug": "thermo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 675,
-    "timeDay": 836,
-    "timeWeek": 721,
-    "timeMonth": 675,
-    "timeYear": 675,
-    "dailyMinutesDown": {}
+    "time": 685,
+    "timeDay": 859,
+    "timeWeek": 735,
+    "timeMonth": 685,
+    "timeYear": 685,
+    "dailyMinutesDown": {
+      "2025-01-21": 0
+    }
   }
 ]
