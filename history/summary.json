@@ -62,17 +62,17 @@
     "url": "https://thermo.lnh.ge/api",
     "icon": "https://icons.duckduckgo.com/ip3/thermo.lnh.ge.ico",
     "slug": "thermo",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
     "uptimeDay": "92.48%",
     "uptimeWeek": "98.93%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.32%",
-    "time": 689,
-    "timeDay": 826,
-    "timeWeek": 736,
-    "timeMonth": 689,
-    "timeYear": 689,
+    "time": 687,
+    "timeDay": 784,
+    "timeWeek": 731,
+    "timeMonth": 687,
+    "timeYear": 687,
     "dailyMinutesDown": {
       "2025-01-21": 108
     }
