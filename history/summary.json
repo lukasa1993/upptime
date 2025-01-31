@@ -63,18 +63,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/thermo.lnh.ge.ico",
     "slug": "thermo",
     "status": "up",
-    "uptime": "99.05%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptime": "99.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.07%",
+    "uptimeYear": "99.07%",
     "time": 932,
     "timeDay": 1852,
     "timeWeek": 1238,
     "timeMonth": 932,
     "timeYear": 932,
     "dailyMinutesDown": {
-      "2025-01-30": 6,
       "2025-01-21": 271
     }
   }
