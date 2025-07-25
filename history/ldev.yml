@@ -1,7 +1,7 @@
 url: https://up.ldev.cloud
-status: up
-code: 200
-responseTime: 477
-lastUpdated: 2025-07-24T23:07:02.544Z
+status: down
+code: 502
+responseTime: 495
+lastUpdated: 2025-07-25T10:47:05.069Z
 startTime: 2024-09-22T10:51:43.598Z
 generator: Upptime <https://github.com/upptime/upptime>
